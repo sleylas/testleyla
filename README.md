@@ -8,3 +8,5 @@ Oтличия команды git pull и git fetch.
 ---
 
 >>Грубо говоря, по дефолту git pull — это шоткод для последовательности двух команд: git fetch (получение изменений с сервера) и git merge (сливание в локальную копию).
+
+[Источник](https://tproger.ru/explain/git-pull-and-git-fetch-whats-the-difference/)
