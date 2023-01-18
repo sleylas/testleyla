@@ -1,0 +1,1 @@
+## About conflicts on branches
